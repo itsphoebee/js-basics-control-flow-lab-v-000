@@ -28,4 +28,5 @@ function switchOnCharmFromTip(tip){
       greeting = 'Bye.';
     break;
   }
+  return greeting;
 }
